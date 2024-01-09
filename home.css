@@ -1,0 +1,67 @@
+p
+{
+left:45px;
+position:relative;
+
+}
+.d2
+{
+position:relative;
+height:100%;
+left:120px;
+}
+.d1
+{
+left:70px;
+top:5%;
+position:relative;
+height:100%;
+}
+
+.data
+{
+	left:120px;
+	position:relative;
+	border:3px solid black;
+}
+.name
+{
+	left:101px;
+	position:relative;
+	border:3px solid black;
+}
+.mob
+{
+	left:50px;
+	position:relative;
+	border:3px solid black;
+}
+.branch
+{
+	left:95px;
+	position:relative;
+	border:3px solid black;
+}
+.button1{
+	position:relative;
+	left:150px;
+	border:3px solid black;
+}
+.pass
+{
+position:relative;
+	left:50px;
+	border:3px solid black;	
+}
+.head
+{
+	color:RED;
+	font-size:12px;
+}
+.data1
+{
+	color:white;
+	font-family:calibari;
+}
+	
+	
